@@ -58,7 +58,7 @@ export const about = {
   title: 'A developer who treats your website like a *business tool.*',
   p1: `I'm a frontend developer based in ${site.city}. I use HTML, CSS, JavaScript and React with modern tooling to build websites quickly without cutting corners on design.`,
   p2: '[One sentence about what makes you different.]',
-  photo: '', // e.g. '/me.jpg' (put the file inside the /public folder). Empty shows a placeholder.
+  photo: '/me.png', // e.g. '/me.jpg' (put the file inside the /public folder). Empty shows a placeholder.
   facts: [
     { label: 'Works with', value: 'Founders and small businesses' },
     { label: 'Reply time', value: 'Within 24 hours' },
